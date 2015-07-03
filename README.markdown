@@ -15,7 +15,7 @@ Your computer may have python 2.x installed, in addition to python 3. In that ca
 
 It can also be useful to upgrade pip (and setuptools):
 
-   pip install -U pip setuptools
+    pip install -U pip setuptools
 
 ## Usage
 
