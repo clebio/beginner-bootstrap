@@ -4,7 +4,7 @@ Resources for beginning Python programmers (or anyone interested).
 
 ## Setup
 
-    mkvirtualenv boostrap
+    mkvirtualenv bootstrap
     pip install -r requirements.txt
 
 [Virtualenv][venv] is a way to encapsulate the dependencies for a Python project. The `mkvirtualenv` command is part of [virtualenvwrapper][venvwrapper], which adds helper utilities to `virtualenv`.
